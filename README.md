@@ -1,4 +1,4 @@
-Hello, cybersec enjoyer here.   (づ￣ 3￣)づ
+Hello, machine learning and deep learning enjoyer here.   (づ￣ 3￣)づ
 
 You can contact me via instagram:@catalinm.120
 
