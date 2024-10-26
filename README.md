@@ -1,5 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+# Hi there! ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 - 🏦 I'm a Machine Learning Engineer working on Computer Vision ( Multi Object Detection)
 - 🌐 My own website: [1y33.github.io](https://1y33.github.io/)
 - 📖 I am currently reading stuff related to all deep learning domains from LLM's to Energy Based Models
@@ -14,8 +13,10 @@
       <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="GIT" width="55" height="55"/> 
-
-
+      <img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.svgrepo.com/show/452237/jb-clion.svg" alt="GIT" width="55" height="55"/> 
 </p>
 
 
