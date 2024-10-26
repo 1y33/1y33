@@ -13,7 +13,7 @@
       <img src="https://www.svgrepo.com/show/373484/c3.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="GIT" width="55" height="55"/> 
 
 
 </p>
