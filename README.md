@@ -1,7 +1,7 @@
 # Hi there! ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 - 🏦 I'm a Machine Learning Engineer working on Computer Vision ( Multi Object Detection)
 - 🌐 My own website: [1y33.github.io](https://1y33.github.io/)
-- 📖 I am currently reading stuff related to all deep learning domains from LLM's to Energy Based Models
+- 📖 I like learning new things and putting the latest research into practice through various projects.I’m passionate about reading programming books and creating new tech ideas.
 - 🧑‍💻 Tech I work on :
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="GIT" width="55" height="55"/> 
