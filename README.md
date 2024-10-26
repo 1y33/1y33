@@ -11,7 +11,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Machine Learning Engineer working on Computer Vision ( Multi Object Detection)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
+- 🌐 [My own website](https://1y33.github.io/)
 - 💻 I use daily: **.py**, **.cpp**, **.ipynb**,
 - 📖 I am currently reading stuff related to all deep learning domains from LLM's to Energy Based Models
 - 👯 We can connect to play some games of Chess ♟
@@ -40,9 +40,6 @@
 ---
 
 
-▶ [... view more](https://1y33.github.io/)
-
-\
 <!---
 1y33/1y33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
