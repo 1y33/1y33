@@ -24,7 +24,12 @@ I work across the full stack when required(happens always :) ), from low-level G
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+  <img src="https://www.svgrepo.com/show/373715/nvidia.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/triton-lang/triton/main/docs/assets/triton-logo.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/AMD_Radeon_Logo.svg" width="50"/>
+  <img src="https://www.svgrepo.com/show/354152/verilog.svg" width="50"/>
 </p>
+
 
 ### 🌐 Distributed Systems, Backend & Infrastructure
 <p align="center">
