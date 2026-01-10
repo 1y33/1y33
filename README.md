@@ -11,67 +11,62 @@ I work across the full stack when required(happens always :) ), from low-level G
 ## 🧰 Technical Stack
 
 ### 🤖 Machine Learning & Computer Vision
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50"/>
-  <img src="https://www.svgrepo.com/show/354139/opencv.svg" width="50"/>
-  <img src="https://www.svgrepo.com/show/373830/matlab.svg" width="50"/>
-</p>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
+
+---
 
 ### ⚙️ Programming Languages & Low-Level Systems
-<p align="center">
-  <img src="https://www.svgrepo.com/show/373528/cpp3.svg" width="50"/>
-  <img src="https://www.svgrepo.com/show/373484/c3.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
-  <img src="https://www.svgrepo.com/show/373715/nvidia.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/triton-lang/triton/main/docs/assets/triton-logo.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/AMD_Radeon_Logo.svg" width="50"/>
-  <img src="https://www.svgrepo.com/show/354152/verilog.svg" width="50"/>
-</p>
 
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=oracle&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+![CUDA](https://img.shields.io/badge/CUDA-NVIDIA-76B900?logo=nvidia&logoColor=white)
+![HIP](https://img.shields.io/badge/HIP-AMD-ED1C24?logo=amd&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton-ML%20Compiler-blue)
+![Verilog](https://img.shields.io/badge/Verilog-RTL-orange)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
 
 ### 🌐 Distributed Systems, Backend & Infrastructure
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="45"/>
-</p>
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+
+---
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="45"/>
-  <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="45"/>
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="45"/>
-  <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="45"/>
-</p>
+
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 
 ## 🚀 Projects & Experience
 
-- GPU kernel development in assembly and Triton for performance-critical ML workloads  
+- GPU kernel development
 - Low-level optimization of attention mechanisms, GEMM kernels, and inference pipelines  
 - FPGA-based GPGPU and experimental AI accelerator designs  
 - Deep learning models developed for multiple applied solutions  
-- Large Language Model training, research, and inference optimization  
+- Large Language Model training for fun
 - Distributed worker systems for large-scale data processing and real-time inference  
 - Full-stack applications supporting ML workflows, deployment, and monitoring  
-
----
-
-## 🔬 Research & Interests
-
-- High-performance machine learning kernels  
-- LLM training efficiency and large-scale inference  
-- Hardware-aware optimization and systems design  
-- Hardware–software co-design for AI accelerators  
 
 ---
 
